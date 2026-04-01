@@ -9,7 +9,7 @@ We extract audio features (MFCCs) and train an LSTM-based neural network to clas
 
 📊 Dataset
 
-- Dataset used: Toronto Emotional Speech Set (TESS)
+- Dataset used: Toronto Emotional Speech Set (TESS) from Kaggle
 - Contains audio recordings of different emotions like:
   - Happy 
   - Sad 
